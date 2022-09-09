@@ -3,7 +3,7 @@
  
  
  主体框架如下图所示：
- <img src="img/1.jpg" />
+ <img src="img/Main.jpg" />
     
 
 

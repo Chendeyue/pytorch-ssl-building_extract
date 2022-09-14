@@ -7,7 +7,7 @@
  
  主体框架如下图所示：
  <img src="img/Main.png" />
-    
 
 
-正在准备中。。。。
+EA_P:
+在EA_PGSSL中运行train_batch.py训练拟合得到结果，随后在EA_Transform中训练迁移后的结果
